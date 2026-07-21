@@ -88,3 +88,24 @@ O sistema utiliza os principais **pilares da Programação Orientada a Objetos**
 - Git e GitHub
 - Terminal / VS Code
 
+# 3- ✊ Jogo Jo-Ken-Pô em Python
+
+Um jogo clássico de **Pedra, Papel e Tesoura** desenvolvido em **Python**, utilizando a interface gráfica do **Tkinter** e manipulação de imagens com a biblioteca **Pillow**. O projeto conta com um design limpo, placar dinâmico em tempo real e lógica de jogadas automatizada para o computador.
+
+
+## 🚀 Funcionalidades
+
+* **Interface Gráfica (GUI):** Janela estilizada e personalizada com tema moderno via Tkinter.
+* **Placar Dinâmico:** Contagem automática e em tempo real dos pontos do Jogador e do Computador.
+* **Inteligência do Oponente:** Escolhas automáticas e aleatórias feitas pelo computador a cada rodada usando a biblioteca `random`.
+* **Suporte Visual:** Botões interativos com ícones para representar visualmente as jogadas (Pedra, Papel e Tesoura).
+
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Python 3.x**
+* **Tkinter** (Interface gráfica nativa)
+* **Pillow / PIL** (Redimensionamento e manipulação de imagens)
+* **Random** (Sorteio das jogadas do computador)
+
+
